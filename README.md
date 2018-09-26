@@ -1,2 +1,5 @@
 # CO1111
-Hi
+The Computing Challenge project page
+
+## Log entry for worksheet 01
+Familiarizing with Git and GitHub. Hey!
